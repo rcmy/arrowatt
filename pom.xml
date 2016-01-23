@@ -16,14 +16,14 @@
     
     <dependencies>
         <dependency>
-            <groupId>Google</groupId>
-            <artifactId>google</artifactId>
-            <version>1</version>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>19.0</version>
         </dependency>
         <dependency>
-            <groupId>googlecore</groupId>
-            <artifactId>11</artifactId>
-            <version>1</version>
+            <groupId>com.google.gdata</groupId>
+            <artifactId>core</artifactId>
+            <version>1.47.1</version>
         </dependency>
         <dependency>
             <groupId>javax</groupId>
